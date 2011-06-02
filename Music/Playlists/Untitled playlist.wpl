@@ -1,0 +1,16 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7600.16667"/>
+        <meta name="ItemCount" content="4"/>
+        <title>Untitled playlist</title>
+    </head>
+    <body>
+        <seq>
+            <media src="F:\pasko na\Have Yourself a Merry Little Christmas (Carrie Underwood).mp3" tid="{F7CD3771-1624-449D-AA1C-70997D92D06A}"/>
+            <media src="F:\pasko na\Winter Wonderland (Billy Gilman).MP3" cid="{42FC167D-C1E5-47AE-98D3-5BF3C3733CCA}" tid="{C25AD610-5854-429E-B181-8D9726BFE3D1}"/>
+            <media src="F:\pasko na\Carpenters - Christmas - Merry Christmas Darling.mp3" tid="{0A130778-3474-460A-90C7-AD7326E54AA2}"/>
+            <media src="F:\pasko na\Jingle Bell Rock (Bobby Helms).mp3" tid="{09C94829-0FB4-43D3-A9B4-7146844FE764}"/>
+        </seq>
+    </body>
+</smil>
